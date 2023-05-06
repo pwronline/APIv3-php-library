@@ -1,5 +1,5 @@
 {
-    "name": "sendinblue/api-v3-sdk",
+    "name": "pwronline/api-v3-sdk",
     "description": "Official SendinBlue provided RESTFul API V3 php library",
     "keywords": [
         "sendinblue",
