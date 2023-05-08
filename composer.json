@@ -1,5 +1,5 @@
 {
-    "name": "sendinblue/api-v3-sdk",
+    "name": "pwronline/apiv3-php-library",
     "description": "Official SendinBlue provided RESTFul API V3 php library",
     "keywords": [
         "sendinblue",
@@ -8,7 +8,7 @@
         "sdk",
         "api"
     ],
-    "homepage": "https://github.com/sendinblue/APIv3-php-library",
+    "homepage": "https://github.com/pwronline/apiv3-php-library/",
     "license": "MIT",
     "authors": [
         {
