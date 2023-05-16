@@ -1,5 +1,5 @@
 {
-    "name": "motocard/APIv3-php-library",
+    "name": "motocard/apiv3-php-library",
     "description": "Official SendinBlue provided RESTFul API V3 php library",
     "keywords": [
         "sendinblue",
